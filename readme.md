@@ -6,7 +6,7 @@ A project for keeping records and marking steps
  
  #
  - Spring Boot
- - Postgres
+ - PostgreSQL
  - FlyWay
  - FreeMaker
  - Bootstrap
